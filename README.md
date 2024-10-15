@@ -1,6 +1,6 @@
 # 💻 **Full Stack Developer | Sociologist | Musician** 🎵
 
-### **Hi there! I'm Bárbara Pérez de Arce 👋
+### Hi there! I'm Bárbara Pérez de Arce 👋
 
 I'm a **Full Stack Developer** with a strong interdisciplinary background, holding a degree in **Sociology and Music**. My passion for **Electronics, Creative Programming, and Media Arts** drives me to constantly explore innovative ways to merge technology and creativity.
 
