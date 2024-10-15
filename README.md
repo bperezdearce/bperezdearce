@@ -15,7 +15,7 @@ Currently, I specialize in **front-end development**, but I have experience acro
 - **Back-End**: Node.js, Express
 - **Databases**: MongoDB, PostgreSQL
 - **Other Tools**: Cloudinary, Formik, MercadoPago integration, Nodemailer, Git
-- **DevOps**: Vercel, Render.com, Heroku
+- **DevOps**: Vercel
 - **Collaboration & Design**: Figma, Adobe Creative Suite
 
 ---
