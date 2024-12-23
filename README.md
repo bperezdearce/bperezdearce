@@ -57,4 +57,4 @@ Feel free to reach out if you're interested in **collaborations**, **creative co
 
 ### 🎵 **Fun Fact**
 
-When I'm not coding, you'll find me creating music, performing, or experimenting with new sounds. 🎸🎧
+When I'm not coding, you'll find me creating music, performing, or experimenting with new sounds. 🎧
