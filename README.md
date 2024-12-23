@@ -11,12 +11,13 @@ Currently, I specialize in **front-end development**, but I have experience acro
 ### 🛠 **Tech Stack & Skills**
 
 - **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Front-End**: React, Next.js, Tailwind CSS
-- **Back-End**: Node.js, Express
+- **Front-End**: React, Next.js, Tailwind CSS, Bootstrap
+- **Back-End**: Express, Node.js
 - **Databases**: MongoDB, PostgreSQL
-- **Other Tools**: Cloudinary, Formik, MercadoPago integration, Nodemailer, Git
-- **DevOps**: Vercel
-- **Collaboration & Design**: Figma, Adobe Creative Suite
+- **API Development**: REST
+- **Deployment Platforms**: Vercel
+- **Collaboration Tools**: Git, Notion, Slack
+- **Design Tools**: Figma, Adobe Creative Suite
 
 ---
 
