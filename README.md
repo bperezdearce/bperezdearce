@@ -14,10 +14,9 @@ Currently, I specialize in **front-end development**, but I have experience acro
 - **Front-End**: React, Next.js, Tailwind CSS, Bootstrap
 - **Back-End**: Express, Node.js
 - **Databases**: MongoDB, PostgreSQL
-- **API Development**: REST
 - **Deployment Platforms**: Vercel
+- **Design Tools**: Figma, Adobe Creative Cloud
 - **Collaboration Tools**: Git, Notion, Slack
-- **Design Tools**: Figma, Adobe Creative Suite
 
 ---
 
