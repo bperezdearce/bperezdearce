@@ -41,6 +41,7 @@ I’m always learning! Recently, I’ve been diving deeper into:
 
 - **Creative Programming** with a focus on generative art and interactive media. Currently I'm learning everything about p5.js
 - Improving my skills in **back-end development** and working with cloud services.
+- Pursuing a Meta React Native certificate, due February 
 
 ---
 
