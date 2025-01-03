@@ -30,7 +30,7 @@ This combination of experiences has given me a unique perspective on **collabora
 
 ### 📈 **What I'm Currently Working On**
 
-- Developing web applications that blend **artistic elements** with **functional web design**.
+- Developing my portfolio, which is my first solo professional project, looking to blend **artistic elements** with **functional web design**.
 - Exploring **Creative Computing** and its potential in **media arts**.
 
 ---
@@ -40,8 +40,7 @@ This combination of experiences has given me a unique perspective on **collabora
 I’m always learning! Recently, I’ve been diving deeper into:
 
 - **Creative Programming** with a focus on generative art and interactive media. Currently I'm learning everything about p5.js
-- Improving my skills in **back-end development** and working with cloud services.
-- Pursuing a Meta React Native certificate, due February 
+- Pursuing a Meta **React Native** certificate, due February 
 
 ---
 
