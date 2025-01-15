@@ -30,7 +30,6 @@ This combination of experiences has given me a unique perspective on **collabora
 
 ### 📈 **What I'm Currently Working On**
 
-- Developing my portfolio, which is my first solo professional project, looking to blend **artistic elements** with **functional web design**.
 - Exploring **Creative Computing** and its potential in **media arts**.
 
 ---
@@ -47,6 +46,7 @@ I’m always learning! Recently, I’ve been diving deeper into:
 ### 📫 **Let’s Connect!**
 
 Feel free to reach out if you're interested in **collaborations**, **creative coding**, or just to talk about **music** and **tech**!
+- [Portfolio](https://www.barbarapda.dev) 
 - [LinkedIn](https://www.linkedin.com/in/barbarapda/)
 - [Instagram](https://www.instagram.com/barbarapda)
 - [WhatsApp](https://wa.me/56981272793)
