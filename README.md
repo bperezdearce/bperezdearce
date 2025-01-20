@@ -10,8 +10,8 @@ Currently, I specialize in **front-end development**, but I have experience acro
 
 ### 🛠 **Tech Stack & Skills**
 
-- **Languages**: JavaScript (ES6+), TypeScript, Python, HTML5, CSS3.
-- **Front-End**: React, Redux, Next.js, Vercel, Tailwind CSS, Bootstrap.
+- **Languages**: HTML5, CSS, JavaScript, TypeScript, Python.
+- **Front-End**: React, Redux, Next.js, Vite, Tailwind CSS, Bootstrap.
 - **Back-End**: Express, Node.js.
 - **Databases**: Mongoose, MongoDB, PostgreSQL.
 - **Deployment Platforms**: Vercel, Render.
