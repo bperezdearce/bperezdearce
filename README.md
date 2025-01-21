@@ -15,6 +15,7 @@ Currently, I specialize in **front-end development**, but I have experience acro
 - **Back-End**: Express, Node.js.
 - **Databases**: Mongoose, MongoDB, PostgreSQL.
 - **Deployment Platforms**: Vercel, Render.
+- **Testing Tools**: Jasmine, Jest.
 - **Design Tools**: Figma, Adobe Creative Cloud.
 - **Collaboration Tools**: Git, Notion, Slack.
 
