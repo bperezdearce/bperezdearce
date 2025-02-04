@@ -12,7 +12,7 @@ Currently, I specialize in **front-end development**, but I have experience acro
 
 - **Languages**: HTML5, CSS, JavaScript, TypeScript, Python.
 - **Front-End**: React, Redux, Next.js, Vite, Tailwind CSS, Bootstrap.
-- **Back-End**: Express, Node.js, Django.
+- **Back-End**: Express, Node.js, Django, Swagger UI.
 - **Databases**: Mongoose, MongoDB, PostgreSQL.
 - **Deployment Platforms**: Vercel, Docker, ngrok.
 - **Testing Tools**: Jasmine, Jest.
