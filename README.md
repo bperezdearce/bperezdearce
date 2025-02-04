@@ -52,9 +52,3 @@ Feel free to reach out if you're interested in **collaborations**, **creative co
 - [Instagram](https://www.instagram.com/barbarapda)
 - [WhatsApp](https://wa.me/56981272793)
 - [Email](mailto:barbara.perezdearce@gmail.com)
-
----
-
-### 🎵 **Fun Fact**
-
-When I'm not coding or researching, you'll find me creating music, performing, or experimenting with new sounds. 🎧
