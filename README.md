@@ -4,7 +4,7 @@
 
 I'm a **Full Stack Developer** with a strong interdisciplinary background, holding a degree in **Sociology and Music**. My passion for **Electronics, Creative Programming, and Media Arts** drives me to constantly explore innovative ways to merge technology and creativity.
 
-Currently, I specialize in **front-end development**, but I have experience across the full stack and enjoy diving into both the **technical** and **creative** sides of projects. I'm always looking to improve my skills, stay up-to-date with new technologies, and work on projects that challenge me to grow.
+I have experience across the full stack and enjoy diving into both the **technical** and **creative** sides of projects. I'm always looking to improve my skills, stay up-to-date with new technologies, and work on projects that challenge me to grow.
 
 ---
 
