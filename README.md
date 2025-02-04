@@ -31,7 +31,7 @@ This combination of experiences has given me a unique perspective on **collabora
 
 ### 📈 **What I'm Currently Working On**
 
-- Exploring **Creative Computing** and its potential in **media arts**.
+- Integrating Open Source AI into an article generator that extracts audio from YouTube videos, transcribes it, and generates an article from the content.
 
 ---
 
@@ -39,8 +39,8 @@ This combination of experiences has given me a unique perspective on **collabora
 
 I’m always learning! Recently, I’ve been diving deeper into:
 
-- **Creative Programming** with a focus on generative art and interactive media. Currently I'm learning everything about p5.js
-- Pursuing a Meta **React Native** certificate, due February 
+- Python Backend Development, focusing on the Django framework.
+- Pursuing a Meta React Native certificate, expected completion in February.
 
 ---
 
