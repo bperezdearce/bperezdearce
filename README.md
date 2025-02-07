@@ -39,7 +39,7 @@ This combination of experiences has given me a unique perspective on **collabora
 
 I’m always learning! Recently, I’ve been diving deeper into:
 
-- Python Backend Development, focusing on the Django framework.
+- Python Backend Development, focusing on Django.
 - Pursuing a Meta React Native certificate, expected completion in February.
 
 ---
