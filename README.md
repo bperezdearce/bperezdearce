@@ -47,7 +47,8 @@ I’m always learning! Recently, I’ve been diving deeper into:
 ### 📫 **Let’s Connect!**
 
 Feel free to reach out if you're interested in **collaborations**, **creative coding**, or just to talk about **music** and **tech**!
-- [Portfolio](https://www.barbarapda.dev) 
+- [Portfolio](https://www.barbarapda.dev)
+- [Spotify](https://open.spotify.com/intl-es/artist/0pZmpYqDRngbv7jgkFl1qV?si=8OEKri9PTEe88sXxoC8b0w) 
 - [LinkedIn](https://www.linkedin.com/in/barbarapda/)
 - [WhatsApp](https://wa.me/56981272793)
 - [Email](mailto:barbara.perezdearce@gmail.com)
