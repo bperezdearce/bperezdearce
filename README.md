@@ -2,9 +2,9 @@
 
 ### Hi there! I'm Bárbara Pérez de Arce 👋
 
-I'm a **Full Stack Developer** with a strong interdisciplinary background, holding a degree in **Sociology and Music**. My passion for **Electronics, Creative Programming, and Media Arts** drives me to constantly explore innovative ways to merge technology and creativity.
+Full Stack Developer & Sociologist with a love for tech, teamwork, and creative problem-solving! I've worked in academic and collaborative settings, blending technical know-how with creativity and teamwork to tackle challenges head-on. My C2-certified English means I can confidently collaborate with international teams, no problem!
 
-I have experience across the full stack and enjoy diving into both the **technical** and **creative** sides of projects. I'm always looking to improve my skills, stay up-to-date with new technologies, and work on projects that challenge me to grow.
+Always curious, always learning—I'm all about pushing my skills further and diving into projects that keep me on my toes. Let’s build something awesome! 🚀
 
 ---
 
