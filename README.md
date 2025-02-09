@@ -13,11 +13,11 @@ Always curious, always learning—I'm all about pushing my skills further and di
 - **Languages**: HTML5, CSS, JavaScript, TypeScript, Python.
 - **Front-End**: React, Redux, Next.js, Vite, Tailwind CSS, Bootstrap.
 - **Back-End**: Express, Node.js, Django, Swagger UI.
+- **Mobile Development**: React Native.
 - **Databases**: Mongoose, MongoDB, PostgreSQL.
-- **Deployment Platforms**: Vercel, Docker, ngrok.
+- **Deployment Tools**: Vercel, Docker, ngrok.
 - **Testing Tools**: Jasmine, Jest.
 - **Design Tools**: Figma.
-- **Collaboration Tools**: Git, Notion, Slack.
 
 ---
 
@@ -40,7 +40,6 @@ This combination of experiences has given me a unique perspective on **collabora
 I’m always learning! Recently, I’ve been diving deeper into:
 
 - Python Backend Development, focusing on Django.
-- Pursuing a Meta React Native certificate, expected completion in February.
 
 ---
 
