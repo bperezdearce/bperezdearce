@@ -4,7 +4,7 @@
 
 Full Stack Developer & Sociologist with a love for tech, teamwork, and creative problem-solving! I've worked in academic and collaborative settings, blending technical know-how with creativity and teamwork to tackle challenges head-on. My C2-certified English means I can confidently collaborate with international teams, no problem!
 
-Always curious, always learning—I'm all about pushing my skills further and diving into projects that keep me on my toes. Let’s build something awesome! 🚀
+Always curious, always learning—I'm all about pushing my skills further and diving into projects that keep me on my toes 🚀
 
 ---
 
