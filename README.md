@@ -11,10 +11,10 @@ Always curious, always learning—I'm all about pushing my skills further and di
 ### 🛠 **Tech Stack & Skills**
 
 - **Languages**: HTML5, CSS, JavaScript, TypeScript, Python.
-- **Front-End**: React, Redux, Next.js, Vite, Tailwind CSS, Bootstrap.
+- **Front-End**: React, Redux, Next.js, Vue.js, Astro, Vite, Tailwind CSS, Bootstrap.
 - **Back-End**: Express, Node.js, Django, Swagger UI.
 - **Mobile Development**: React Native.
-- **Databases**: Mongoose, MongoDB, PostgreSQL.
+- **Databases**: Mongoose, MongoDB, PostgreSQL, MySQL.
 - **Deployment Tools**: Vercel, Docker, ngrok.
 - **Testing Tools**: Jasmine, Jest.
 - **Design Tools**: Figma.
