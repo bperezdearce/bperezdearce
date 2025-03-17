@@ -1,4 +1,4 @@
-# 💻 **Full Stack Developer | Sociologist | Musician** 🎵
+# 💻 **Full Stack Developer | BSc. Sociology | Musician** 🎵
 
 ### Hi there! I'm Bárbara Pérez de Arce 👋
 
