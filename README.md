@@ -39,7 +39,7 @@ This combination of experiences has given me a unique perspective on **collabora
 
 I’m always learning! Recently, I’ve been diving deeper into:
 
-- Nest.js to enhance my knowledge of Node.js backends.
+- Nest.js to enhance my knowledge of Node.js and Express backends.
 - Python backend development, with a focus on Django.
 - Astro and Vue.js as frontend frameworks.
 
